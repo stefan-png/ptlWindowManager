@@ -10,5 +10,5 @@ dynamic:
 out/test: test/test.cpp
 	gcc test/test.cpp -o out/test -L/out -lptlWindowManager.0.0.1
 
-test: build
+test: out/test
 	out/test
