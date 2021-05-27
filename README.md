@@ -1,7 +1,8 @@
 # ptlWindowManager
 
 MacOS GLFW replacement.
-[Screen Shot 2021-05-27 at 1 56 20 PM](https://user-images.githubusercontent.com/74995040/119889114-6e317f00-bef3-11eb-8d05-1e6eaee02869.png)
+
+![image](https://user-images.githubusercontent.com/74995040/119889114-6e317f00-bef3-11eb-8d05-1e6eaee02869.png)
 
 ## build!
 
