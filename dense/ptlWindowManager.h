@@ -369,8 +369,8 @@ typedef struct VkMetalSurfaceCreateInfoEXT {
 	const void*             		pLayer;
 } VkMetalSurfaceCreateInfoEXT;
 
-void getRequiredExtensions(uint32_t* count, const char** pExtensions);
-VkMetalSurfaceCreateInfoEXT getSurfaceCreateInfoEXT(PTLWindow* handle);
+void ptlGetRequiredExtensions(uint32_t* count, const char** pExtensions);
+VkMetalSurfaceCreateInfoEXT ptlGetSurfaceCreateInfoEXT(PTLWindow* handle);
 
 #ifdef __cplusplus
 }
